@@ -1,1 +1,1 @@
-this is the project task 1
+What does the command uname print when you run it without any option?
